@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "FgGzEu2gmbewRZ+c7xxpPLVe/aBmVJj3Pl2Kzv9OfjHunWH9ErT8OfS7iNXrG+yIgFp+KE3Bceh4xS0p55F2NA==",
+  "success": true,
+  "projectFilePath": "/home/pedrooli/Dev/Csharp/dotnet6-clean-ddd/BuberDiner/BuberDinner.Api/BuberDinner.Api.csproj",
+  "expectedPackageFiles": [
+    "/home/pedrooli/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/pedrooli/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/pedrooli/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/home/pedrooli/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/home/pedrooli/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/home/pedrooli/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

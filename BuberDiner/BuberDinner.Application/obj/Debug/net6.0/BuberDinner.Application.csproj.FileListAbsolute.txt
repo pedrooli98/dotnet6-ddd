@@ -1,0 +1,12 @@
+/home/pedrooli/Dev/Csharp/dotnet6-clean-ddd/BuberDiner/BuberDinner.Application/bin/Debug/net6.0/BuberDinner.Application.deps.json
+/home/pedrooli/Dev/Csharp/dotnet6-clean-ddd/BuberDiner/BuberDinner.Application/bin/Debug/net6.0/BuberDinner.Application.dll
+/home/pedrooli/Dev/Csharp/dotnet6-clean-ddd/BuberDiner/BuberDinner.Application/bin/Debug/net6.0/BuberDinner.Application.pdb
+/home/pedrooli/Dev/Csharp/dotnet6-clean-ddd/BuberDiner/BuberDinner.Application/obj/Debug/net6.0/BuberDinner.Application.csproj.AssemblyReference.cache
+/home/pedrooli/Dev/Csharp/dotnet6-clean-ddd/BuberDiner/BuberDinner.Application/obj/Debug/net6.0/BuberDinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedrooli/Dev/Csharp/dotnet6-clean-ddd/BuberDiner/BuberDinner.Application/obj/Debug/net6.0/BuberDinner.Application.AssemblyInfoInputs.cache
+/home/pedrooli/Dev/Csharp/dotnet6-clean-ddd/BuberDiner/BuberDinner.Application/obj/Debug/net6.0/BuberDinner.Application.AssemblyInfo.cs
+/home/pedrooli/Dev/Csharp/dotnet6-clean-ddd/BuberDiner/BuberDinner.Application/obj/Debug/net6.0/BuberDinner.Application.csproj.CoreCompileInputs.cache
+/home/pedrooli/Dev/Csharp/dotnet6-clean-ddd/BuberDiner/BuberDinner.Application/obj/Debug/net6.0/BuberDinner.Application.dll
+/home/pedrooli/Dev/Csharp/dotnet6-clean-ddd/BuberDiner/BuberDinner.Application/obj/Debug/net6.0/refint/BuberDinner.Application.dll
+/home/pedrooli/Dev/Csharp/dotnet6-clean-ddd/BuberDiner/BuberDinner.Application/obj/Debug/net6.0/BuberDinner.Application.pdb
+/home/pedrooli/Dev/Csharp/dotnet6-clean-ddd/BuberDiner/BuberDinner.Application/obj/Debug/net6.0/ref/BuberDinner.Application.dll
