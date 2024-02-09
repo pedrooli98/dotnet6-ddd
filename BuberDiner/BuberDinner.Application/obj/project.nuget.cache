@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "nt/u5aKjUVcPBKKmwUmGrpCj8+D2p2GTnhOiZ/EJUqHb5vKJPVMiu0pDj3dGc/9iG3mgkFfoJxmqptR1pe459A==",
+  "dgSpecHash": "rO0E4bPYJY2hACjUgXOfLgdrwQWa/HRYZVeYXI5WwUPFjWf4Cr2Ah4iY4i0MoV6j4uBxP9TKYSvDuKVHZtsp3Q==",
   "success": true,
   "projectFilePath": "/home/pedrooli/Dev/Csharp/dotnet6-clean-ddd/BuberDiner/BuberDinner.Application/BuberDinner.Application.csproj",
   "expectedPackageFiles": [],
