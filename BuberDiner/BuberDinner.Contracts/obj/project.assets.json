@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/pedrooli/Dev/Csharp/dotnet6-clean-ddd/BuberDiner/BuberDinner.Contracts/BuberDinner.Contracts.csproj",
+      "projectUniqueName": "/home/pedrooli/Dev/Csharp/dotnet6-ddd/BuberDiner/BuberDinner.Contracts/BuberDinner.Contracts.csproj",
       "projectName": "BuberDinner.Contracts",
-      "projectPath": "/home/pedrooli/Dev/Csharp/dotnet6-clean-ddd/BuberDiner/BuberDinner.Contracts/BuberDinner.Contracts.csproj",
+      "projectPath": "/home/pedrooli/Dev/Csharp/dotnet6-ddd/BuberDiner/BuberDinner.Contracts/BuberDinner.Contracts.csproj",
       "packagesPath": "/home/pedrooli/.nuget/packages/",
-      "outputPath": "/home/pedrooli/Dev/Csharp/dotnet6-clean-ddd/BuberDiner/BuberDinner.Contracts/obj/",
+      "outputPath": "/home/pedrooli/Dev/Csharp/dotnet6-ddd/BuberDiner/BuberDinner.Contracts/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/pedrooli/.nuget/NuGet/NuGet.Config"
