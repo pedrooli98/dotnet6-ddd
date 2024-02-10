@@ -10,3 +10,15 @@
 /home/pedrooli/Dev/Csharp/dotnet6-clean-ddd/BuberDiner/BuberDinner.Domain/obj/Debug/net6.0/refint/BuberDinner.Domain.dll
 /home/pedrooli/Dev/Csharp/dotnet6-clean-ddd/BuberDiner/BuberDinner.Domain/obj/Debug/net6.0/BuberDinner.Domain.pdb
 /home/pedrooli/Dev/Csharp/dotnet6-clean-ddd/BuberDiner/BuberDinner.Domain/obj/Debug/net6.0/ref/BuberDinner.Domain.dll
+/home/pedrooli/Dev/Csharp/dotnet6-ddd/BuberDiner/BuberDinner.Domain/bin/Debug/net6.0/BuberDinner.Domain.deps.json
+/home/pedrooli/Dev/Csharp/dotnet6-ddd/BuberDiner/BuberDinner.Domain/bin/Debug/net6.0/BuberDinner.Domain.dll
+/home/pedrooli/Dev/Csharp/dotnet6-ddd/BuberDiner/BuberDinner.Domain/bin/Debug/net6.0/BuberDinner.Domain.pdb
+/home/pedrooli/Dev/Csharp/dotnet6-ddd/BuberDiner/BuberDinner.Domain/obj/Debug/net6.0/BuberDinner.Domain.csproj.AssemblyReference.cache
+/home/pedrooli/Dev/Csharp/dotnet6-ddd/BuberDiner/BuberDinner.Domain/obj/Debug/net6.0/BuberDinner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedrooli/Dev/Csharp/dotnet6-ddd/BuberDiner/BuberDinner.Domain/obj/Debug/net6.0/BuberDinner.Domain.AssemblyInfoInputs.cache
+/home/pedrooli/Dev/Csharp/dotnet6-ddd/BuberDiner/BuberDinner.Domain/obj/Debug/net6.0/BuberDinner.Domain.AssemblyInfo.cs
+/home/pedrooli/Dev/Csharp/dotnet6-ddd/BuberDiner/BuberDinner.Domain/obj/Debug/net6.0/BuberDinner.Domain.csproj.CoreCompileInputs.cache
+/home/pedrooli/Dev/Csharp/dotnet6-ddd/BuberDiner/BuberDinner.Domain/obj/Debug/net6.0/BuberDinner.Domain.dll
+/home/pedrooli/Dev/Csharp/dotnet6-ddd/BuberDiner/BuberDinner.Domain/obj/Debug/net6.0/refint/BuberDinner.Domain.dll
+/home/pedrooli/Dev/Csharp/dotnet6-ddd/BuberDiner/BuberDinner.Domain/obj/Debug/net6.0/BuberDinner.Domain.pdb
+/home/pedrooli/Dev/Csharp/dotnet6-ddd/BuberDiner/BuberDinner.Domain/obj/Debug/net6.0/ref/BuberDinner.Domain.dll

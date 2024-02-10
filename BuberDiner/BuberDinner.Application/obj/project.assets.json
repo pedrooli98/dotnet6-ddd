@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/pedrooli/Dev/Csharp/dotnet6-clean-ddd/BuberDiner/BuberDinner.Application/BuberDinner.Application.csproj",
+      "projectUniqueName": "/home/pedrooli/Dev/Csharp/dotnet6-ddd/BuberDiner/BuberDinner.Application/BuberDinner.Application.csproj",
       "projectName": "BuberDinner.Application",
-      "projectPath": "/home/pedrooli/Dev/Csharp/dotnet6-clean-ddd/BuberDiner/BuberDinner.Application/BuberDinner.Application.csproj",
+      "projectPath": "/home/pedrooli/Dev/Csharp/dotnet6-ddd/BuberDiner/BuberDinner.Application/BuberDinner.Application.csproj",
       "packagesPath": "/home/pedrooli/.nuget/packages/",
-      "outputPath": "/home/pedrooli/Dev/Csharp/dotnet6-clean-ddd/BuberDiner/BuberDinner.Application/obj/",
+      "outputPath": "/home/pedrooli/Dev/Csharp/dotnet6-ddd/BuberDiner/BuberDinner.Application/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/pedrooli/.nuget/NuGet/NuGet.Config"
@@ -51,8 +51,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/home/pedrooli/Dev/Csharp/dotnet6-clean-ddd/BuberDiner/BuberDinner.Domain/BuberDinner.Domain.csproj": {
-              "projectPath": "/home/pedrooli/Dev/Csharp/dotnet6-clean-ddd/BuberDiner/BuberDinner.Domain/BuberDinner.Domain.csproj"
+            "/home/pedrooli/Dev/Csharp/dotnet6-ddd/BuberDiner/BuberDinner.Domain/BuberDinner.Domain.csproj": {
+              "projectPath": "/home/pedrooli/Dev/Csharp/dotnet6-ddd/BuberDiner/BuberDinner.Domain/BuberDinner.Domain.csproj"
             }
           }
         }
